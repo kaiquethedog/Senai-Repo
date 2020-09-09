@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\SENAI Repo\\DDD Aluno\\DDD Aluno.csproj": {}
+    "A:\\SENAI Repo\\API_Boletim\\DDD Aluno.csproj": {}
   },
   "projects": {
-    "A:\\SENAI Repo\\DDD Aluno\\DDD Aluno.csproj": {
+    "A:\\SENAI Repo\\API_Boletim\\DDD Aluno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\SENAI Repo\\DDD Aluno\\DDD Aluno.csproj",
+        "projectUniqueName": "A:\\SENAI Repo\\API_Boletim\\DDD Aluno.csproj",
         "projectName": "DDD Aluno",
-        "projectPath": "A:\\SENAI Repo\\DDD Aluno\\DDD Aluno.csproj",
+        "projectPath": "A:\\SENAI Repo\\API_Boletim\\DDD Aluno.csproj",
         "packagesPath": "C:\\Users\\Thedog\\.nuget\\packages\\",
-        "outputPath": "A:\\SENAI Repo\\DDD Aluno\\obj\\",
+        "outputPath": "A:\\SENAI Repo\\API_Boletim\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thedog\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

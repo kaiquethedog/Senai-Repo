@@ -18,3 +18,30 @@ A:\SENAI Repo\DDD Aluno\obj\Debug\netcoreapp3.1\staticwebassets\DDD Aluno.Static
 A:\SENAI Repo\DDD Aluno\obj\Debug\netcoreapp3.1\DDD Aluno.dll
 A:\SENAI Repo\DDD Aluno\obj\Debug\netcoreapp3.1\DDD Aluno.pdb
 A:\SENAI Repo\DDD Aluno\obj\Debug\netcoreapp3.1\DDD Aluno.genruntimeconfig.cache
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\appsettings.json
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\DDD Aluno.exe
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\DDD Aluno.deps.json
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\DDD Aluno.runtimeconfig.json
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\DDD Aluno.runtimeconfig.dev.json
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\DDD Aluno.dll
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\DDD Aluno.pdb
+A:\SENAI Repo\API_Boletim\obj\Debug\netcoreapp3.1\DDD Aluno.csprojAssemblyReference.cache
+A:\SENAI Repo\API_Boletim\obj\Debug\netcoreapp3.1\DDD Aluno.AssemblyInfoInputs.cache
+A:\SENAI Repo\API_Boletim\obj\Debug\netcoreapp3.1\DDD Aluno.AssemblyInfo.cs
+A:\SENAI Repo\API_Boletim\obj\Debug\netcoreapp3.1\DDD Aluno.RazorTargetAssemblyInfo.cache
+A:\SENAI Repo\API_Boletim\obj\Debug\netcoreapp3.1\staticwebassets\DDD Aluno.StaticWebAssets.Manifest.cache
+A:\SENAI Repo\API_Boletim\obj\Debug\netcoreapp3.1\staticwebassets\DDD Aluno.StaticWebAssets.xml
+A:\SENAI Repo\API_Boletim\obj\Debug\netcoreapp3.1\DDD Aluno.dll
+A:\SENAI Repo\API_Boletim\obj\Debug\netcoreapp3.1\DDD Aluno.pdb
+A:\SENAI Repo\API_Boletim\obj\Debug\netcoreapp3.1\DDD Aluno.genruntimeconfig.cache
+A:\SENAI Repo\API_Boletim\obj\Debug\netcoreapp3.1\DDD Aluno.csproj.CoreCompileInputs.cache
+A:\SENAI Repo\API_Boletim\obj\Debug\netcoreapp3.1\DDD Aluno.MvcApplicationPartsAssemblyInfo.cache
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\SENAI Repo\API_Boletim\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\SENAI Repo\API_Boletim\obj\Debug\netcoreapp3.1\DDD Aluno.csproj.CopyComplete
