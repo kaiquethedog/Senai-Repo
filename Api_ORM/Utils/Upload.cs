@@ -11,6 +11,7 @@ namespace Api_ORM.Utils
     {
         public static string Local(IFormFile file)
         {
+			//adicionado upload de imagem
             var nomeArquivo = Guid.NewGuid().ToString().Replace("-", "") + Path.GetExtension(file.FileName);
 
             var caminhoArquivo = Path.Combine(Directory.GetCurrentDirectory(), @"wwwRoot\upload\imagens", nomeArquivo);

@@ -13,6 +13,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Api_ORM.Controllers
 {
 	//Adicionado Statuscode
+	//Adicionado Upload de imagem
     [Route("api/[controller]")]
     [ApiController]
     public class ProdutosController : ControllerBase

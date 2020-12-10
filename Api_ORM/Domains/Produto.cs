@@ -11,6 +11,7 @@ namespace Api_ORM.Domains
 {
     public class Produto : BaseDomain
     {
+		//adicionado upload imagem
         public string Nome { get; set; }
         public float Preco { get; set; }
         [NotMapped]//nao mapea a entidade no bando de dados
