@@ -11,6 +11,7 @@ namespace Api_ORM.Repositories
 {
     public class PedidoRepository : IPedidoRepository
     {
+		///adicionado os endpoints
         private readonly PedidoContext _ctx;
         public PedidoRepository()
         {

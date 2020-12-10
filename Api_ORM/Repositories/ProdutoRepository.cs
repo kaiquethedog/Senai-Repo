@@ -10,7 +10,7 @@ namespace Api_ORM.Repositories
 {
     public class ProdutoRepository : IProdutoRepository
     {
-
+///adicioando os endpoints
         private readonly PedidoContext _ctx;
 
         public ProdutoRepository()
