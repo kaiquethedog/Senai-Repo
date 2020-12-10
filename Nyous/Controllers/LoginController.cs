@@ -24,7 +24,7 @@ namespace Nyous.Controllers
         // Chamamos nosso contexto do banco
         NyousContext _context = new NyousContext();
 
-        // Capturar as infos do token
+        // Capturar as infos do tokens
         // Definimos uma variável para percorrer nossos métodos com as configurações obtidas no appsettings.json
         private IConfiguration _config;
 

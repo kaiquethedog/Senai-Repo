@@ -39,7 +39,7 @@ namespace Nyous.Controllers
         }
 
         // PUT: api/Usuario/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for
+        // To protect fromg overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPut("{id}")]
         public async Task<IActionResult> PutUsuario(int id, Usuario usuario)
