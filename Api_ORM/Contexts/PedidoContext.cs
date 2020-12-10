@@ -15,7 +15,7 @@ namespace Api_ORM.Contexts
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-DA6MBAT\SQLEXPRESS;Initial Catalog=curso;User ID=sa;Password=ps132");
+            optionsBuilder.UseSqlServer(@"Data Source=THEDOG-PC\SQLEXPRESS;Initial Catalog=curso;User ID=sa;Password=sa132");
         }
     }
 }

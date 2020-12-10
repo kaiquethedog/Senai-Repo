@@ -8,6 +8,7 @@ namespace Api_ORM.Interfaces
 {
     public interface IProdutoRepository
     {
+        //interface
         List<Produto> Listar();
         Produto BuscarPorId(Guid id);
         void Adicionar(Produto produto);

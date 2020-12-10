@@ -8,6 +8,7 @@ namespace Api_ORM.Interfaces
 {
     public interface IPedidoRepository
     {
+        //interface
         List<Pedido> Listar();
         Pedido BuscarPorId(Guid id);
         /// <summary>

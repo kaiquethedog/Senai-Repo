@@ -16,6 +16,7 @@ namespace Api_ORM.Controllers
     [ApiController]
     public class ProdutosController : ControllerBase
     {
+        //controller
         private readonly IProdutoRepository _produtoRepository;
 
         public ProdutosController()
