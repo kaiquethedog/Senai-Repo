@@ -59,7 +59,7 @@ namespace Api_ORM.Controllers
             }
         }
 
-        // GET api/
+        // GET api/q
         /// <summary>
         /// mostra um unico produto
         /// </summary>

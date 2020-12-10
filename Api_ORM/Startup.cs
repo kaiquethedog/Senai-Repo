@@ -37,6 +37,7 @@ namespace Api_ORM
             {
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
+					//
                     Version = "v1",
                     Title = "Loja API",
                     Description = "Um modelo simples para aprendizado sobre ASP.NET Core Web API",

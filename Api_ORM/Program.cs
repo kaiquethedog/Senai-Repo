@@ -9,6 +9,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Api_ORM
 {
+	//
 #pragma warning disable CS1591
     public class Program
     {
